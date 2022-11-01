@@ -35,10 +35,9 @@ public class SortLinkedList {
                 }
             }
         }
-
         //Print
-        for (int a:list) {
-            System.out.print(a+" ");
+        for (int a : list) {
+            System.out.print(a + " ");
         }
     }
 }

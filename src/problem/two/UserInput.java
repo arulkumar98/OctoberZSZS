@@ -16,7 +16,7 @@ public class UserInput {
             }
             SortTheArray sortTheArray = new SortTheArray();
             sortTheArray.array(arr, input);
-        }catch (InputMismatchException e){
+        } catch (InputMismatchException e) {
             System.out.println("invalid input");
         }
     }
